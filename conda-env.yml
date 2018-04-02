@@ -1,0 +1,6 @@
+name: python-cca
+dependencies:
+  - python
+  - numpy
+  - jupyter
+  - scipy
