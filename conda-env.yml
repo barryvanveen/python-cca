@@ -4,3 +4,5 @@ dependencies:
   - numpy
   - jupyter
   - scipy
+  - pillow
+  - matplotlib
